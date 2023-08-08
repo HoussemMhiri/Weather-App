@@ -1,0 +1,14 @@
+body {
+  min-height: 100vh;
+  margin: 0;
+  font-family: "Roboto", Arial !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /*  background-color: #d5d4d4; */
+  background: url(../public/icons/sunset.jpg) no-repeat center center/cover;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
