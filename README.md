@@ -1,6 +1,6 @@
 # Weather App
 
-**Weather App** is a React-based application that provides weather details for today and the rest of the week. This app allows users to check current weather conditions and forecast information in an easy-to-read format.
+**Weather App** is a React-based application that provides weather details for today and the rest of the week. This app allows users to check current weather conditions and forecast information in an easy-to-read format. 
 
 ## Features
 
@@ -49,12 +49,15 @@
     npm start
     ```
 
-5. Visit `http://localhost:3000` in your browser to access the application.
+5. Visit `http://localhost:3000` in your browser to access the application. 
 
 ## Usage
 
 1. **Check Current Weather:** View the weather conditions for the current day.
 2. **View Weekly Forecast:** See the weather forecast for the upcoming week.
+
+![Screenshot (8369)](https://github.com/user-attachments/assets/871141d1-714e-4025-8409-6412e28b3c1f)
+
 
 ## Configuration
 
